@@ -24,7 +24,6 @@ Write-Host
 Write-Host "Installing/upgrading development tools from Chocolatey"
 choco upgrade sysinternals -y
 choco upgrade git -y
-choco upgrade gitextensions -y
 choco upgrade poshgit -y
 choco upgrade beyondcompare -y
 choco upgrade notepadplusplus -y
