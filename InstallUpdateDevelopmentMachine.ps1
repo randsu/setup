@@ -15,7 +15,7 @@ if ($initialInstall) {
 }
 Write-Host "Installing/upgrading system applications from Chocolatey"
 choco upgrade Cmder -y
-choco upgrade winrar -y
+choco upgrade 7zip -y
 choco upgrade slack -y
 choco upgrade veracrypt -y
 choco upgrade treesizefree -y
