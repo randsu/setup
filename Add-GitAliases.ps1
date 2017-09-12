@@ -10,6 +10,7 @@ git config --global alias.c  checkout
 git config --global alias.p  pull
 git config --global alias.pu push
 git config --global alias.m  merge
+git config --global alias.contains "branch -a --contains"
 
 # Remove all aliases
 # git config --remove-section alias
