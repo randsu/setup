@@ -10,6 +10,7 @@ git config --global alias.c  checkout
 git config --global alias.p  pull
 git config --global alias.pu push
 git config --global alias.m  merge
+# list both local and remote branches containing current HEAD, append SHA to list for arbitrary commit
 git config --global alias.contains "branch -a --contains"
 
 # Remove all aliases
