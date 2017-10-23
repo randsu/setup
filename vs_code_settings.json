@@ -1,4 +1,8 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.zoomLevel": 1,
+    "editor.folding": true
 }
