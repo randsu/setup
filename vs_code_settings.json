@@ -1,8 +1,12 @@
 // Place your settings in this file to overwrite the default settings
 {
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "window.zoomLevel": 1,
     "editor.mouseWheelZoom": true,
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "window.zoomLevel": 1,
     "editor.folding": true
 }
