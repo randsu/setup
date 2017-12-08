@@ -1,12 +1,19 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.minimap.enabled": false,
-    "editor.renderWhitespace": "all",
-    "editor.renderControlCharacters": true,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 2,
+    "files.autoSave": "off",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
+    "files.eol": "\n",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.autoIndent": true,
     "editor.mouseWheelZoom": true,
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "editor.folding": true
+    "editor.renderWhitespace": "all",
+    "editor.folding": true,
+    "workbench.panel.location": "bottom",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderControlCharacters": true
 }
