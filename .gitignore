@@ -1,0 +1,8 @@
+# Global gitignore file
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Visual Studio Code - workspace-settings (you might want to omit this)
+/.vscode/settings.json
