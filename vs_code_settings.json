@@ -15,5 +15,7 @@
     "workbench.panel.location": "bottom",
     "editor.minimap.enabled": false,
     "workbench.startupEditor": "newUntitledFile",
-    "editor.renderControlCharacters": true
+    "editor.renderControlCharacters": true,
+    "editor.multiCursorModifier": "alt",
+    "editor.codeLens": false
 }
