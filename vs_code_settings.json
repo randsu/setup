@@ -17,5 +17,6 @@
     "workbench.startupEditor": "newUntitledFile",
     "editor.renderControlCharacters": true,
     "editor.multiCursorModifier": "alt",
-    "editor.codeLens": false
+    "editor.codeLens": false,
+    "editor.cursorStyle": "block"
 }
