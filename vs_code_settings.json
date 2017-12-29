@@ -19,5 +19,6 @@
     "editor.multiCursorModifier": "alt",
     "editor.codeLens": false,
     "editor.cursorStyle": "block",
-    "editor.find.autoFindInSelection": true
+    "editor.find.autoFindInSelection": true,
+    "terminal.integrated.fontSize": 11
 }
