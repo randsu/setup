@@ -1,3 +1,8 @@
 # setup
 
-some configuration changes i like to do on windows dev machine, primarily in powershell
+:computer: some config for windows dev machine.
+
+:blue_heart: some setup for vs code.
+
+:neckbeard: some other stuff.
+
