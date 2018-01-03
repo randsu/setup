@@ -16,7 +16,6 @@
         "key": "ctrl+shift+oem_minus",
         "command": "workbench.action.navigateForward"
     },
-    ,
     {
         "key": "ctrl+k ctrl+m",
         "command": "editor.foldAll",
