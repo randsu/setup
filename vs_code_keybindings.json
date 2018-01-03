@@ -26,5 +26,13 @@
         "key": "ctrl+m ctrl+k",
         "command": "editor.unfoldAll",
         "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+t ctrl+l",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "ctrl+t ctrl+u",
+        "command": "editor.action.transformToUppercase"
     }
 ]
