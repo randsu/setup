@@ -33,5 +33,16 @@
     {
         "key": "ctrl+t ctrl+u",
         "command": "editor.action.transformToUppercase"
+    },
+    /* vs code: ext install camelcasenavigation */
+    {
+        "key": "alt+right",
+        "command": "extension.moveCamelRightCommand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "-extension.moveCamelRightCommand",
+        "when": "editorTextFocus"
     }
 ]
