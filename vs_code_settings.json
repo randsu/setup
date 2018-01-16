@@ -3,7 +3,8 @@
     "window.zoomLevel": 2,
     "files.autoSave": "off",
     "editor.fontSize": 12,
-    "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace", /* https://github.com/tonsky/FiraCode/ */
+    "editor.fontLigatures": true,
     "files.eol": "\n",
     "workbench.colorTheme": "Monokai Dimmed",
     "editor.autoIndent": true,
@@ -21,5 +22,6 @@
     "editor.cursorStyle": "block",
     "editor.find.autoFindInSelection": true,
     "terminal.integrated.fontSize": 11,
-    "problems.decorations.enabled": true
+    "problems.decorations.enabled": true,
+    "workbench.iconTheme": "vscode-icons", /* ext install vscode-icons */
 }
