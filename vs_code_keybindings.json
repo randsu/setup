@@ -44,5 +44,13 @@
         "key": "ctrl+right",
         "command": "-extension.moveCamelRightCommand",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+j",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "workbench.action.terminal.focusPrevious"
     }
 ]
