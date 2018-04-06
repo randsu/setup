@@ -4,6 +4,7 @@
 git config --global alias.s  status
 git config --global alias.b  branch
 git config --global alias.l "log --decorate --graph --parents --source -10 --abbrev-commit"
+git config --global alias.lp "log --pretty=oneline --abbrev-commit --merges --grep='Merge pull'"
 git config --global alias.h "log --all --decorate --graph --parents --source --abbrev-commit -20"
 git config --global alias.d "diff --ignore-space-at-eol -b -w --ignore-blank-lines"
 git config --global alias.f "fetch -a"
