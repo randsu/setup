@@ -1,0 +1,22 @@
+# Remove the line below if you want to inherit .editorconfig settings from higher directories
+root = true
+
+# C# files
+[*.cs]
+
+#### Naming styles ####
+
+# Naming rules
+
+# Instance fields are camelCase and start with _
+dotnet_naming_rule.private_or_internal_field_should_be__fieldname.severity = suggestion
+dotnet_naming_rule.private_or_internal_field_should_be__fieldname.symbols = private_or_internal_field
+dotnet_naming_rule.private_or_internal_field_should_be__fieldname.style = _fieldname
+
+# Naming styles
+
+# Define _fieldname style
+dotnet_naming_style._fieldname.required_prefix = _
+dotnet_naming_style._fieldname.required_suffix = 
+dotnet_naming_style._fieldname.word_separator = 
+dotnet_naming_style._fieldname.capitalization = camel_case
